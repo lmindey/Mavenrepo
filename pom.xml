@@ -71,7 +71,7 @@
       <mysql-connector.version>5.1.40</mysql-connector.version>
       
       <!-- dependencies -->
-      <springframework.version>4.2.8.RELEASE</springframework.version>
+      <springframework.version>5.3.18</springframework.version>
       <springframework-security.version>3.2.5.RELEASE</springframework-security.version>
       <hibernate.version>4.3.11.Final</hibernate.version>
       <hibernate-commons-annotations.version>4.0.5.Final</hibernate-commons-annotations.version>
