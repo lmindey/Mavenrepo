@@ -73,7 +73,7 @@
       <!-- dependencies -->
       <springframework.version>4.2.8.RELEASE</springframework.version>
       <springframework-security.version>3.2.5.RELEASE</springframework-security.version>
-      <hibernate.version>4.3.11.Final</hibernate.version>
+      <hibernate.version>5.3.20.Final</hibernate.version>
       <hibernate-commons-annotations.version>4.0.5.Final</hibernate-commons-annotations.version>
       <hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
       <javax.servlet.version>3.1.0</javax.servlet.version>
